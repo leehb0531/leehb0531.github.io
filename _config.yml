@@ -1,0 +1,28 @@
+title: 빈's 작심삼일기
+description: Hoping Searching Acting
+author: 빈s
+logo: /hcz-jekyll-blog/static/img/avatar.png
+github: https://github.com/codeasashu
+about: Freelance developer
+
+baseurl: ""
+url: "https://leehb0531.github.io/"
+
+allowsearch: true
+
+disqus_shortname: aboutashu
+google_analytics: UA-72862926-1
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
